@@ -31,7 +31,6 @@ post.endpoint:http://localhost:8080/api/log.
 here i have used the dependencies like 
     <b>spring-starter-web</b> for the restful communication
         also it provides the scheduling logic as a inbuilt functionality
-
     for the logging purpose i have used the <b>spring-boot-stater-logging</b>
 
     
